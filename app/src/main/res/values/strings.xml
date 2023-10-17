@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">App 5</string>
+    <string name="go_to_home_activity">Go to Home Activity</string>
+    <string name="main">Main</string>
+    <string name="home">Home</string>
+</resources>
